@@ -28,6 +28,7 @@ span{
     transition: .4s;
     cursor: pointer;
 }
+    /*and we should hidden the visibility (guess so)*/  
 input{
     opacity: 0;
 }
